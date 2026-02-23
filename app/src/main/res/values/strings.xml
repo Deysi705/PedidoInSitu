@@ -1,0 +1,47 @@
+<resources>
+    <!-- Nombre de la app -->
+    <string name="app_name">PedidoInSitu</string>
+
+    <!-- Campos de pedido -->
+    <string name="nombre_cliente">Nombre del cliente</string>
+    <string name="telefono">Teléfono</string>
+    <string name="direccion">Dirección</string>
+    <string name="detalle_pedido">Detalle del pedido</string>
+    <string name="pago_efectivo">Efectivo</string>
+    <string name="pago_transferencia">Transferencia</string>
+    <string name="tomar_foto">Tomar Foto</string>
+    <string name="guardar_pedido">Guardar Pedido</string>
+    <string name="sincronizar">Sincronizar</string>
+
+    <!-- Login -->
+    <string name="bienvenida">Bienvenido a PedidoInSitu</string>
+    <string name="registrar_usuario">Registrar Usuario Cliente</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+
+    <!-- Registro -->
+    <string name="registro_usuario">Registro de Usuario Cliente</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="guardar_usuario">Guardar Usuario</string>
+
+
+    <string name="cliente">Cliente</string>
+    <string name="estado">Estado</string>
+    <string name="fecha">Fecha</string>
+
+
+    <string name="login_ok">Login OK\nToken: %1$s\nUsuario: %2$s</string>
+    <string name="login_error">Error en login: %1$d</string>
+    <string name="login_connection_error">Error de conexión en login: %1$s</string>
+
+    <string name="pedidos_ok">Pedidos: %1$s</string>
+    <string name="pedidos_error">Error al obtener pedidos: %1$d</string>
+    <string name="pedidos_connection_error">Error de conexión en pedidos: %1$s</string>
+
+
+    <string name="estado_placeholder">Estado: %1$s</string>
+    <string name="coordenadas_placeholder">Lat: %1$.4f, Lon: %2$.4f</string>
+
+
+
+</resources>
